@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil Reddy Mondeddu</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bRnfB.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/FtLZ05FBnC48uYGzuO/giphy.gif?cid=790b7611huh4xkhwvcln3u4jtym2i2zap9n1z4pvpud2h9p8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnikki&label=Profile%20views&color=0e75b6&style=flat" alt="iamnikki" /> </p>
